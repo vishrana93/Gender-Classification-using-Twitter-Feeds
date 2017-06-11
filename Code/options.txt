@@ -1,0 +1,1024 @@
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=True	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!    d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d='17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!    '17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+'17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba    d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+d=17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba    17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+17
+========================================================================
+use_descr=True	lower=False	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+17
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @lowkeyass_nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@lowkeyass_nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    lowkeyass_nigga
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+lowkeyass_nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=True	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba!!!    THIS_IS_A_MENTION    that's
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    @LowkeyAss_Nigga    that's    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+@LowkeyAss_Nigga    that's    baby    simba!!!
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=True	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=d=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=True	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    THIS_IS_A_MENTION
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=True	use_text=True	collapse_stop_words=False
+---------------------------
+THIS_IS_A_MENTION    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=True	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=True
+---------------------------
+baby    simba    LowkeyAss_Nigga
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=False	use_text=True	collapse_stop_words=False
+---------------------------
+LowkeyAss_Nigga    that    s    baby    simba
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=True
+---------------------------
+
+========================================================================
+use_descr=False	lower=False	punct=False	prefix=	url=False	mention=False	use_text=False	collapse_stop_words=False
+---------------------------
+
+========================================================================

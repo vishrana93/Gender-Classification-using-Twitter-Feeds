@@ -1,0 +1,379 @@
+(user_text,user_description,coefficient,username,gender)
+(u'AJ Noel \u2605', u'24. USC Alum, Basketball Junkie, Actor, Host, and Lover of all things Miami. #HeatNation', array([ 0.47472589]), u'ImAJNoel', 'female')
+---------------------------------------------------------------------------
+(u'\u0639\u0628\u064a\u062f', u'\u0645\u0627 \u0623\u062d\u0628 \u062a\u0648\u064a\u062a\u0631 \u0648 \u0634\u0643\u0631\u0627.. \u0645\u0627 \u0628\u0643\u062a\u0628 \u0645\u0628\u062a\u0639\u062b \u0644\u0627\u0646\u0647 \u0631\u0627\u062d\u062a \u0645\u0648\u0636\u062a\u0647\u0627 SnapChat: iboodi123', array([ 0.51020988]), u'obido3', 'female')
+---------------------------------------------------------------------------
+(u'Sof', u'Plant your own gardens instead of waiting for someone to bring you flowers', array([ 2.50359838]), u'SofiaRozo_', 'female')
+---------------------------------------------------------------------------
+(u'BAMN', u"Stay far from timid Only make moves when ya heart's in it And live the phrase Sky's The Limit", array([ 1.1659177]), u'Ofcourse_yess', 'female')
+---------------------------------------------------------------------------
+(u'Moe A', None, array([-0.21037032]), u'moe_chi', 'male')
+---------------------------------------------------------------------------
+(u'CMPunkFan', u'CM Punk the best wrestler in the world.        3x World Champion 2x WWE Champion', array([ 3.12951629]), u'AponteJsmoove', 'female')
+---------------------------------------------------------------------------
+(u'Contrvbvnd', u'Fuck Genres. Bookings/Management: Cooper.idmgmt@gmail.com', array([-0.52936402]), u'Contrvbvnd', 'male')
+---------------------------------------------------------------------------
+(u'Sexy&Sober', u'1st day of miracles began XI\u25aaXII\u25aaMMXIII. Call me anything you want but please add 1of the following: sexy,gorgeous,intelligent,sober', array([ 1.38225698]), u'JerunkGirl', 'female')
+---------------------------------------------------------------------------
+(u'tay', u'furthest thing from perfect.....', array([ 0.18300897]), u'TaykeIt_', 'female')
+---------------------------------------------------------------------------
+(u'Jp', u'glad we have an understanding / Tay makes me happy', array([ 1.4669036]), u'Ayofeo', 'female')
+---------------------------------------------------------------------------
+(u'Coach Hicks', u'Father, Husband, Coach, Trainer, Member of Omega Psi Phi, Mentor, Pro Natural Bodybuilder,Former NFL, CFL, and Arena League Football Player.', array([-6.71689788]), u'CoachHicks56', 'male')
+---------------------------------------------------------------------------
+(u'Tati4PromQueen', u'get you a state champ', array([ 1.32417607]), u'thatblondechels', 'female')
+---------------------------------------------------------------------------
+(u'Melo From Da Set', u'21st-58th King Melo kms GVNG SHXT. #FreeDes', array([-0.98591716]), u'Born2Hussle__', 'male')
+---------------------------------------------------------------------------
+(u'Meme Uribe', u'Productor Creativo, Recreativo y Locutor en Radio y Televisi\xf3n Nuevo Le\xf3n', array([-0.89005185]), u'memeuribe', 'male')
+---------------------------------------------------------------------------
+(u'jeck', u'where is he?', array([-0.0935259]), u'SmackJaloney', 'male')
+---------------------------------------------------------------------------
+(u'Ay Guvenc', u'Contemplation entrepreneur. Compassion, mindfulness, yoga practitioner. Book reader. Teacher. Performer. Writer. Lover of color.', array([ 3.42988248]), u'AyGuvenc', 'female')
+---------------------------------------------------------------------------
+(u'JChristopherBeck', None, array([-1.82940128]), u'ChristweetferB', 'male')
+---------------------------------------------------------------------------
+(u'p-money', u'abracadabra holmes', array([-0.22966409]), u'prsxvx', 'male')
+---------------------------------------------------------------------------
+(u'lil Puma Vert', u"on a long enough timeline everybody's chances of survival drop to zero", array([-0.48447995]), u'yungpuma69', 'male')
+---------------------------------------------------------------------------
+(u'Zereik', None, array([-0.61169254]), u'Zereik1', 'male')
+---------------------------------------------------------------------------
+(u'R Boogie \u2650', u"I Believe That I'm A Foreign Nigga", array([ 1.0002809]), u'Rcconte10', 'female')
+---------------------------------------------------------------------------
+(u'Ryon J. Barker', u"I hate listening to people's dreams. it's like flipping through photographs. if I'm not in them and nobody is having sex, I just don't care. -IASIP", array([-2.00566735]), u'RyonBizark', 'male')
+---------------------------------------------------------------------------
+(u'Gabriela\u2665\u2665.', u'16a|Eicb\u2661|23/07/14 t\xeda hermosa vives en mi cora:(,femf\u2661\u2661.', array([ 0.3096905]), u'Acoacevedo', 'female')
+---------------------------------------------------------------------------
+(u'Es lebe LeBaron!', u'22 year old single gay nerdman with unsettling obsession with the Germans. Nintendo cocksucker, grande RTS try-hard, and actual Samoyed IRL. Tries his dangdest.', array([-2.65436588]), u'surlyujest', 'male')
+---------------------------------------------------------------------------
+(u'Pink Pets + Home', u'#PetSitting Female Silver Dapple Dachshund. Nascar,News,My Life. My sister #Sionbell went to heaven on 7-16-14', array([ 0.71485664]), u'PinkPressdog', 'female')
+---------------------------------------------------------------------------
+(u'The Don', u'Insta: @dcruzdc5 | Snapchat: dcruz.dc5 | Radiology Major, Biology Minor | Always shredding | boardboiz | hardstyle | #tooturked | #edclv2016', array([ 1.4686832]), u'DonaldCruz_', 'female')
+---------------------------------------------------------------------------
+(u'riddle', u'hi im kyle', array([ 0.36146382]), u'Riddlemaster__', 'female')
+---------------------------------------------------------------------------
+(u'D\xe5\u0144\xf8\xf8\u2122', u'Dcu Committee | 409', array([-0.3152384]), u'YOUNGBIGHAM25', 'male')
+---------------------------------------------------------------------------
+(u'OutSpoken', u"#1 'Amercian Flagship' - coaching services.", array([-1.53596353]), u'ShilohCernatt', 'male')
+---------------------------------------------------------------------------
+(u'sailor mars', u'just a lil Scorpio livin it up', array([-0.09488677]), u'giannisabigdeal', 'male')
+---------------------------------------------------------------------------
+(u'Savannah.\u264c\ufe0f', u'|Rodeo/Barrel Racing consume my life| \u2764\ufe0f', array([ 0.89202626]), u'savanna41974875', 'female')
+---------------------------------------------------------------------------
+(u'Leepa Faith', u'We have the chance to elect an honest man vs a fraud lying warhawk. Please help elect #BernieSanders The fate of our country and the world hang in the balance.', array([ 1.07501083]), u'Leepa_Faith', 'female')
+---------------------------------------------------------------------------
+(u'Kedj', u'NSU', array([ 1.41550332]), u'KebbieJ', 'female')
+---------------------------------------------------------------------------
+(u'TMJ-SEA Nursing Jobs', u'Follow this account for geo-targeted Healthcare-Nursing job tweets in Seattle, WA. Need help? Tweet us at @CareerArc!', array([-2.46903116]), u'tmj_sea_nursing', 'male')
+---------------------------------------------------------------------------
+(u'#FREEBRADY', u'Just a young nigga tryna make it #PatriotsNation #HeatNation #ASAPMOB #RIPYAMS', array([-0.08356672]), u'Jayycarrillo_', 'male')
+---------------------------------------------------------------------------
+(u'gblasiola', u'An American patriot who has had enough of the Progressive destruction of our country. Time to return to the principles of the Constitution.', array([-1.95801422]), u'georgeb5712', 'male')
+---------------------------------------------------------------------------
+(u'Cait Seidel', u'Romans 8:28', array([-1.22645828]), u'caitseidel', 'male')
+---------------------------------------------------------------------------
+(u'suave.', u'beyonc\xe8 is my muva', array([-0.9634226]), u'shadysherren', 'male')
+---------------------------------------------------------------------------
+(u'TCG Jobs', u'TCG is a staffing firm that places design, interactive and marketing professionals in freelance and full-time jobs. See all our Jobs here!', array([-0.71927643]), u'TCGJobs', 'male')
+---------------------------------------------------------------------------
+(u'jess\u265a\u2766', u"FAU '20", array([ 0.54008479]), u'JessicaaColon', 'female')
+---------------------------------------------------------------------------
+(u'Birdiebee52', None, array([-1.26979756]), u'birdiebee52', 'male')
+---------------------------------------------------------------------------
+(u'Kade Hillibush', u'CONFIDENCE', array([-0.01401257]), u'KadenKph', 'male')
+---------------------------------------------------------------------------
+(u'NAEE', u'Model | Blogger \u2022IG : @ __prettynaee. SC: prettyynaee \u2022 http://Notenoughcoffee.net \u2022 #GGurls', array([ 0.12205357]), u'__prettyNAEE', 'female')
+---------------------------------------------------------------------------
+(u'SwayGolf', u'Golf Equipment Rentals in Las Vegas. The home of the Weekend Warrior Review Team. Your only stop for Vegas Golf.', array([ 0.08730937]), u'SwayGolf', 'female')
+---------------------------------------------------------------------------
+(u'TMJ-AZS Jobs', u'Follow this account for geo-targeted Other job tweets in Scottsdale, AZ. Need help? Tweet us at @CareerArc!', array([-2.74204808]), u'tmj_azs_jobs1', 'male')
+---------------------------------------------------------------------------
+(u'Tangier Weather', u'Weather updates, forecast, warnings and information for Tangier, Morocco. Sources: http://OpenWeatherMap.org, USGS.', array([-0.95404102]), u'TangierMA', 'male')
+---------------------------------------------------------------------------
+(u"BJ's Restaurants", None, array([-1.43161466]), u'WorkAtBJs', 'male')
+---------------------------------------------------------------------------
+(u'Kommas\u2122\u2668\ufe0f', u'#OMKS #Forever6Gs ... just trying to leave a legacy....', array([-2.68545141]), u'Only1_Kommas', 'male')
+---------------------------------------------------------------------------
+(u'WHATS2+2?', u"Instagram @jontayviaaugustus Snapchat @jontayviabased I'm just a little lesbiana. 19. UNL.", array([-1.11688954]), u'JontayviaLove', 'male')
+---------------------------------------------------------------------------
+(u'B.B. Manik', u'Rapper, action figure aficionado. All views are idiotic.', array([ 0.03766739]), u'BBManik', 'female')
+---------------------------------------------------------------------------
+(u'Yonko Gene$ki', u'[IG: eugennne]', array([ 0.54514392]), u'UgeneGon', 'female')
+---------------------------------------------------------------------------
+(u'OC, CA Health Jobs', u'Follow this account for geo-targeted Healthcare job tweets in Orange County, CA. Need help? Tweet us at @CareerArc!', array([-2.0915978]), u'tmj_cao_health', 'male')
+---------------------------------------------------------------------------
+(u'Phew', u'https://soundcloud.com/gg-yungphew. #Gusto ink\u21224 #hawksnation #falconsnation Snap:YungPhew', array([ 0.02565168]), u'MoneysBestAmigo', 'female')
+---------------------------------------------------------------------------
+(u'sweetheart', u"I mean I know i'm pretty cool", array([ 0.933816]), u'poppinlatina', 'female')
+---------------------------------------------------------------------------
+(u'Beim 2x', u"I'm from a city where they fovever hate . #LongLiveMike #552 #RIPRandy Grandfather of (Delilah Gonzales) \u2763", array([ 0.31578416]), u'Dyheimm14', 'female')
+---------------------------------------------------------------------------
+(u'Mr. Trueman', u'Adopted by God ||Boyce College. Louisville, KY|| Established in Tennessee. Go Vols and God Bless.', array([-1.35258936]), u'AustinTrue', 'male')
+---------------------------------------------------------------------------
+(u'Air Force Andrew', u'OFF WE GO IN TO THE WILD BLUE YONDER FLYING HIGH IN TO THE SUN!!!!!  NOTHING CAN STOP THE USAF!!!!', array([ 3.14952868]), u'calloutlosers', 'female')
+---------------------------------------------------------------------------
+(u'Tahirah\u2764', u'Live life w/ no regrets but always cherish yourself \u2764', array([ 2.20521063]), u'TyySoOptimistic', 'female')
+---------------------------------------------------------------------------
+(u'stephh', u'\u2661\u2741\u263b\u219flv', array([ 1.23900619]), u'sstephyxo', 'female')
+---------------------------------------------------------------------------
+(u'Tribune of the Plebs', u'I talk about Boston sports, comic books and video games. I also write the fitness blog below which is super cool and definitely helpful so you should read it', array([ 0.46302159]), u'Handsome_Jake_', 'female')
+---------------------------------------------------------------------------
+(u'Kiet Do', u'Former graduate student and instructor in Math at UTK. Much like Starbucks coffee, inspiration quotes, #socialmedia and #contentmarketing.\nCalifornia.', array([-2.80572463]), u'xuankiet', 'male')
+---------------------------------------------------------------------------
+(u'jaz', u'TAE 2018 || arlington vbc', array([-0.06434135]), u'jazlynmks', 'male')
+---------------------------------------------------------------------------
+(u'Mookie', u'These girls born in the 90s are dangerous. \u2728', array([ 0.71685764]), u'MonSeanDon', 'female')
+---------------------------------------------------------------------------
+(u'INTRNTNLLY KNWN', u'Rookie videographer/ photographer going PRO soon. #Mizzou https://www.youtube.com/channel/UCZz51wqnOTEtiFCwNOqSeNA', array([-0.15510843]), u'Im_SofaKingCole', 'male')
+---------------------------------------------------------------------------
+(u'madds', u"chs '18", array([ 1.80116908]), u'madiepettit', 'female')
+---------------------------------------------------------------------------
+(u'Quawnthaguy+', u"chilled that's all'", array([ 0.65551716]), u'qusavage0', 'female')
+---------------------------------------------------------------------------
+(u'Bullitino', u'Student of History, Philosophy, Politics. Slightly right of Attila the Hun. Be prepared for No Holds Barred commentary and opinion. Fasten your seatbelt!', array([-2.95285857]), u'Bullitino', 'male')
+---------------------------------------------------------------------------
+(u'JUMP! 106.9', u'NON-STOP HITS at 106.9 FM in Ottawa-Gatineau and 99.9 FM in Pembroke and the Valley.', array([-1.40708823]), u'JumpOttawa', 'male')
+---------------------------------------------------------------------------
+(u'Zach', u'Player for @NewAgeSquads @LeGhostsSquad', array([-0.66800348]), u'NaS_Hound', 'male')
+---------------------------------------------------------------------------
+(u'FadeAway Jay\u26a1', u'#Lane18\u26a1\ufe0f \n Secretary: Mu Phi Sigma\n Deeeeeerty DELTA chapter\n #GVO #TT7WOOW\n#MusicIsKey\nFMOI: __damnfooljay__\nFMOSC: damnleague\n#BlackExcellence\n#IGRINDOMOS', array([ 0.37851935]), u'__aJAYcent__', 'female')
+---------------------------------------------------------------------------
+(u'Must Love Hawks', None, array([ 0.50192688]), u'farley_kelly', 'female')
+---------------------------------------------------------------------------
+(u'Fr. Marcus Halley', u'Human. Friend. Son. Brother. \u03a6\u0392\u03a3. Queer. Black. BeLOVEd. Scholar. Priest. He/Him/His. Anglocatholic. Revolutionary-mystic. RT \u2260 Endorsement.', array([ 1.32239718]), u'word_made_FRESH', 'female')
+---------------------------------------------------------------------------
+(u'TMJ-AZS Health Jobs', u'Follow this account for geo-targeted Healthcare job tweets in Scottsdale, AZ. Need help? Tweet us at @CareerArc!', array([-0.74286653]), u'tmj_AZS_health', 'male')
+---------------------------------------------------------------------------
+(u'ShakeyHead', u'Mark Smith/Kayak-Bassfisherman/LM-SM&Spots/UFC/TNFootball/2kiddos/AspiringProAngler/#BassinIsIt     #Chasingmydream', array([-1.45009031]), u'mickersmith20', 'male')
+---------------------------------------------------------------------------
+(u'BoojeeGal\u2728', None, array([-0.14793336]), u'slimnikki__', 'male')
+---------------------------------------------------------------------------
+(u'lexx', u'shhs cheerleader', array([ 0.95518044]), u'alexisBIEBER112', 'female')
+---------------------------------------------------------------------------
+(u'Slick, Lyft', u'based on a true story', array([-1.86048249]), u'sundown1230', 'male')
+---------------------------------------------------------------------------
+(u'Q\u1ee4\u1eb8\u1eb8\u20a6', u'\u0432e \u0455\u03c5c\u043d a dope \u0455o\u03c5l,                                           \u0442\u043da\u0442 people crave yo\u03c5r v\u03b9\u0432e\u0455.', array([ 0.91036569]), u'atff_', 'female')
+---------------------------------------------------------------------------
+(u'kakie gohman', u'\u2661 TJ 6.27', array([ 3.15935931]), u'kakiegohman_', 'female')
+---------------------------------------------------------------------------
+(u'\u2740 jjs', u"\u2765 21 | tamu '16 | mays business", array([ 2.94588706]), u'joannajoycee', 'female')
+---------------------------------------------------------------------------
+(u'hay\u2661', u'Zenoch Jaxx Burt', array([ 0.92146072]), u'oh_hailey_', 'female')
+---------------------------------------------------------------------------
+(u'b r o o k e \u2661', u'this is the way I liiiive', array([-0.10310681]), u'Danny_xo__', 'male')
+---------------------------------------------------------------------------
+(u'Danielleeeee\u2764\ufe0f', u"we'd have a whale of a good time", array([ 2.47206844]), u'dannee_renee', 'female')
+---------------------------------------------------------------------------
+(u'TMJ-AZS Cosmo Jobs', u'Follow this account for geo-targeted Cosmetology/Hairstylist job tweets in Scottsdale, AZ. Need help? Tweet us at @CareerArc!', array([-1.67531394]), u'tmj_azs_cosmo', 'male')
+---------------------------------------------------------------------------
+(u'Lazarus P. Theodore', u'IG: RealSkrilla Just no talk and big dreams..', array([-0.02556962]), u'realizereal88', 'male')
+---------------------------------------------------------------------------
+(u'Manny Santacruz', u'Colombian Made - Miami Raised', array([-0.59165113]), u'TheRealMannyS', 'male')
+---------------------------------------------------------------------------
+(u"Ms J's Gym", u'Gymnastics Studio based in Brooklyn \u2022 Fun, Colorful, Responsible, Community Driven \u2022 We love kids! #MsJsGym 10% off first trial class: Mention Twitter Discount', array([-0.57923975]), u'msjsgymnastics', 'male')
+---------------------------------------------------------------------------
+(u'KC', u'ohio', array([ 0.06155557]), u'Mrbuckets9', 'female')
+---------------------------------------------------------------------------
+(u'Fiji', u"WU'19 #ThePride TheCountyOfKent...", array([ 0.427432]), u'JordaiTykeya', 'female')
+---------------------------------------------------------------------------
+(u'\u2022 amber \u2022', u'Do you ever just wonder how Lauren Jauregui is even real ? (2/6 Normani+band)', array([-0.46101416]), u'loveonly_mila', 'male')
+---------------------------------------------------------------------------
+(u'LanguageLine Jobs', u'Follow us here for LanguageLine Solutions career opportunities. LanguageLine Solutions is the global leader in telephone interpreting and language solutions.', array([-1.90676682]), u'LanguageRecruit', 'male')
+---------------------------------------------------------------------------
+(u'em', u"LSU'19", array([-0.48845355]), u'emILYman3', 'male')
+---------------------------------------------------------------------------
+(u'Blackman\u203c\ufe0f', u'@Ashley_xxoox \u2763\u2763', array([ 1.60006732]), u'kane_johnson__', 'female')
+---------------------------------------------------------------------------
+(u'Zak Grassi', u'Whens the last time, you did something for the first time.', array([ 0.68736868]), u'zakgrassi', 'female')
+---------------------------------------------------------------------------
+(u'IAI', u'@Integrity_apps has a small company feel but offers #careers as diverse as the customers we support and the people who make up IAI. #applyhere to join our team!', array([-0.65829349]), u'IAI_Jobs', 'male')
+---------------------------------------------------------------------------
+(u'Quan', u'Nice Guy Quany Quan', array([-1.28333763]), u'Kingin_it', 'male')
+---------------------------------------------------------------------------
+(u'newsketches', u"it's because I'm white, isn't it?", array([ 0.22967509]), u'oddsketches', 'female')
+---------------------------------------------------------------------------
+(u'Blaze', u'DJ @ Rock Steady Crew/Soul Assassins Radio Shade 45', array([-3.05299929]), u'KaoticBlaze', 'male')
+---------------------------------------------------------------------------
+(u'MR. WILL WONG', u"Adventures with Toronto's original Entertainment and Celebrity Blogger.\n\nInstagram + Snapchat: MRWILLWONG\n\nFacebook: http://facebook.com/mrwillwongblog", array([-0.34465185]), u'mrwillw', 'male')
+---------------------------------------------------------------------------
+(u'.', u'Rest in Peace Mom \u2764\ufe0f #Patriots. #NCAT16', array([ 1.54497022]), u'katiebandz_', 'female')
+---------------------------------------------------------------------------
+(u'S', None, array([ 0.43607118]), u'sierraalee_', 'female')
+---------------------------------------------------------------------------
+(u'Suahil Housholder', u'Proud Caymanian and AU Raven', array([-0.01930641]), u'suacpa', 'male')
+---------------------------------------------------------------------------
+(u'Halen DeCoteau', u"I dont know how to put this but I'm kind of a big deal. People know me.", array([ 0.78333972]), u'HalenDec11', 'female')
+---------------------------------------------------------------------------
+(u'mikala dixon', u'Never settle. Matthew 6:34 sc: mikalaine', array([-0.1266085]), u'MikalaLaine', 'male')
+---------------------------------------------------------------------------
+(u'\uff34\uff32\uff35\uff25\uff2c\uff29\uff26\uff25  \uff34\uff37\uff25\uff25\uff34\uff33\u3002', u'\uff34\uff32\uff35\uff25\uff2c\uff29\uff26\uff25  \uff34\uff37\uff25\uff25\uff34\uff33', array([ 0.10480775]), u'RESPECKMYTWEETS', 'female')
+---------------------------------------------------------------------------
+(u'\u264e\ufe0f', u'Muva,', array([ 1.74287737]), u'Kissme_whripee', 'female')
+---------------------------------------------------------------------------
+(u'SUN\u2600\ufe0fTANNEDSUPERMAN', u'IG @quayshawnwayans she aint got no curves then she getting curved #lakernation #steelernation #buctober http://U.S.AIRFORCE \u2708\ufe0f Topanga Lawrence has my \u2665\ufe0f', array([ 0.66874408]), u'quayshawnwayans', 'female')
+---------------------------------------------------------------------------
+(u'BetterThanYesterday', u"They say I walk around like I gotta 'S' on my chest. It's just the angel I got tatted cuz I know that I'm blessed.", array([-2.65719853]), u'_TallAndTatted', 'male')
+---------------------------------------------------------------------------
+(u'mow@', u'hip hhhop | memes | chance, kanye stan', array([-1.86304804]), u'wearscoolpants', 'male')
+---------------------------------------------------------------------------
+(u'Arnisha.', u"2016 | makeup addict | future MUA | we wear crowns over here boo | I'm a big deal, people know me |", array([ 0.71596331]), u'ArnishaDidThat_', 'female')
+---------------------------------------------------------------------------
+(u'britters', None, array([ 0.50494421]), u'B_Groves', 'female')
+---------------------------------------------------------------------------
+(u'La Luluuu', u'Laurita Garza is my spirit animal', array([ 1.2215431]), u'lulu_villalobos', 'female')
+---------------------------------------------------------------------------
+(u'Haylee Hoefgen', None, array([-0.0627282]), u'HHoefgen', 'male')
+---------------------------------------------------------------------------
+(u'Obi-Juan Kenobi', u'Manteca, puerco, whisky y frijol', array([-0.06210995]), u'juanmanuelsj', 'male')
+---------------------------------------------------------------------------
+(u'KingBankroll\u2122', u'#GoArmy', array([ 0.26471612]), u'adriankenney30', 'female')
+---------------------------------------------------------------------------
+(u'raw unfiltered angst', u'into the garbage chute, fuckboy', array([-0.75965188]), u'AMorassOfPixelz', 'male')
+---------------------------------------------------------------------------
+(u'Lars Gustafson', u'http://KNBR.com intern/reporter. Former sports editor of the Orion. 49ers/Warriors/Giants/Sharks.', array([-3.77236472]), u'larsonsports', 'male')
+---------------------------------------------------------------------------
+(u'Kennedy McBride', None, array([ 0.80260629]), u'KMcBrid02', 'female')
+---------------------------------------------------------------------------
+(u'Kensie Smith', u'Go Irish', array([ 0.44401791]), u'Kensie_Jordan92', 'female')
+---------------------------------------------------------------------------
+(u'shelb', u'living life however the fuck I please \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022SC: shelbbbstallerr', array([ 0.88394746]), u'sea__shelb', 'female')
+---------------------------------------------------------------------------
+(u'brooklyn', u'Stuck In Ohio', array([ 0.62978005]), u'bklynmeadows', 'female')
+---------------------------------------------------------------------------
+(u'Macklin Kelly', u'Who do you think would win in a fight between a grilled cheese and a taco?', array([ 0.9709374]), u'Macklinmore', 'female')
+---------------------------------------------------------------------------
+(u'Not a Pedophile', u"If you ever tell anyone, I'll rip your tongue out and wrap it around your neck.", array([ 1.39046234]), u'memedong', 'female')
+---------------------------------------------------------------------------
+(u'JP Tanguay', None, array([-0.64532787]), u'jeepee13', 'male')
+---------------------------------------------------------------------------
+(u'mea', u'nothing unwanted \u2022 rice 2018 #blacklivesmatter', array([ 0.74767268]), u'meaganholla', 'female')
+---------------------------------------------------------------------------
+(u'VeganFatKid', u"A VeganFatKid eating his way through the best of Los Angeles so you don't have to. Eat your veggies, Lift heavy sh*t - http://bit.ly/VeganAF-shirt", array([ 0.4371285]), u'VeganFatKid', 'female')
+---------------------------------------------------------------------------
+(u'.', u'XIX || De Monterrey para el mundo entero || Tacolover || Alg\xfan d\xeda buscar\xe9 un trabajo || Snapchat: yazcuellar.', array([-1.75493044]), u'CuellarYaz', 'male')
+---------------------------------------------------------------------------
+(u'PineBeltSPORTS', u'Tweets by @CamalPetro. The Lamar Times/Petal News/Hattiesburg Post. Oak Grove, Petal, Hattiesburg, Purvis, Sumrall, Lumberton, Sacred Heart, PCS & USM.', array([-1.73607035]), u'PineBeltSPORTS', 'male')
+---------------------------------------------------------------------------
+(u'soph', u'everything in moderation', array([ 1.77681127]), u'sophie_ciravolo', 'female')
+---------------------------------------------------------------------------
+(u'Gini', u'Most likely dancing on the street or hugging a stranger right now. Snap Me your face at: Ginicanbreathe and say Schmoo, if you read this.', array([ 1.63231738]), u'Ginicanbreathe', 'female')
+---------------------------------------------------------------------------
+(u'\u0432randon \u043dar\u0432', u"Instagram: BHarb12 I'm iced out as Pop Tarts -Riff Raff", array([ 1.10898203]), u'Brandon_Harb', 'female')
+---------------------------------------------------------------------------
+(u'D.C. United', u'Tweets about #DCU #Soccer #MLS Giphy: http://giphy.com/dcunited Snapchat/Facebook/Instagram: dcunited', array([-0.36520997]), u'dcunited', 'male')
+---------------------------------------------------------------------------
+(u'Ddra', u'#TXST20', array([-0.54244205]), u'ddratrevino', 'male')
+---------------------------------------------------------------------------
+(u'Coach Cortell', u'North Carolina Sports University', array([-1.18725437]), u'CoachCortell', 'male')
+---------------------------------------------------------------------------
+(u'rosebootyyy\u270c\ufe0f', u'just wear some heart shaped sunglasses and be happy with your life:) // 209.810.0462 // \u2648\ufe0f', array([ 1.75489362]), u'itsrosebuddd', 'female')
+---------------------------------------------------------------------------
+(u'ayers', u'23. | PVAlumni', array([-1.09284786]), u'msayers_', 'male')
+---------------------------------------------------------------------------
+(u'nattt', u':)', array([ 0.26557052]), u'nataliejparker', 'female')
+---------------------------------------------------------------------------
+(u'Gabriela\u2665\u2665.', u'16a|Eicb\u2661|23/07/14 t\xeda hermosa vives en mi cora:(,femf\u2661\u2661.', array([ 0.3096905]), u'Acoacevedo', 'female')
+---------------------------------------------------------------------------
+(u'\u0394\u03a3\u0393\u03a3\u039a.', u'i get inappropriately drunk sometimes.', array([-1.03773125]), u'dnelly_snu', 'male')
+---------------------------------------------------------------------------
+(u'OG', u'My names Rod... And I like to party', array([ 0.5800363]), u'TrillaDa6Foota', 'female')
+---------------------------------------------------------------------------
+(u'2BigNHere', u'Young Cassius Clay of my day, Marvin Gaye of my time!', array([-0.39731825]), u'2BigNHere', 'male')
+---------------------------------------------------------------------------
+(u'Tamba\u2b50\ufe0fFlyberian', u"4'O.U.R.S, Liberian  #RipVato #RipPop  #college19", array([ 0.49807069]), u'SoDopeSolee', 'female')
+---------------------------------------------------------------------------
+(u'anthy @ \u304f\u3059\u30b5\u30dd \u2665\ufe0e NBW', u"previously youchikariko \u2606 they/she \u2606 \u03bc's+aqours+milky holmes \u2606 nozomi+yohane devotee \u2606 \u304f\u3063\u3059\u3093 \u2665\ufe0e \u3053\u3068\u307b\u306e\u3046\u307f \u2665\ufe0e \u306e\u305e\u3048\u308a \u2665\ufe0e \u3042\u3044\u304d\u3083\u3093 \u2665\ufe0e \u305d\u3089\u307e\u308b \u2665\ufe0e \u3044\u305a\u69d8 \u2606 AIKYAN REPLIED 04/23/16", array([ 0.59146288]), u'yohanozo', 'female')
+---------------------------------------------------------------------------
+(u'LaMarko', None, array([-2.46945996]), u'AgentAnt005', 'male')
+---------------------------------------------------------------------------
+(u'nutter butter', u'laughter is the best medicine', array([ 0.24647787]), u'AsLv572', 'female')
+---------------------------------------------------------------------------
+(u'Becka*', u'SouthwestHS C/O 2016\nSnapchat- Becka10297\nInstagram- Becka1097', array([ 0.02797072]), u'Rebeckyy13', 'female')
+---------------------------------------------------------------------------
+(u'EL D', u'Row well and live!!', array([ 0.05360096]), u'29Duke17', 'female')
+---------------------------------------------------------------------------
+(u'lainz', u'chillin', array([-0.56570609]), u'ElenaYoxall', 'male')
+---------------------------------------------------------------------------
+(u'kittythan', u"hi, i'm a writer. go coogs!", array([-1.40010194]), u'knifeeffect', 'male')
+---------------------------------------------------------------------------
+(u'\u0643\u0627\u062a\u0631\u064a\u0646\u0627', u'23|panamanian|bajan|usarmy|ny|naturalista|snap:katrinaaa.marie', array([ 2.92914302]), u'x__katrinamarie', 'female')
+---------------------------------------------------------------------------
+(u'amERICAthebeautiful', u'~ love, light, dance, fitness, wellness and all things dope! ~', array([ 0.71102474]), u'EeeRuss', 'female')
+---------------------------------------------------------------------------
+(u'The Organic Gardener', u'RETIRED Likes Honey bees, Gardening, Chickens, Ducks, Geese, Cats, Dogs. Mississippi River, Fishing 79 and going', array([-0.07807566]), u'Backhoe44', 'male')
+---------------------------------------------------------------------------
+(u'The Quinntessential', u'The highest element in philosophy that permeates all nature. The essence of a thing in its purest and most concentrated form.', array([ 0.23222138]), u'Quinntessence_', 'female')
+---------------------------------------------------------------------------
+(u'Cool World', u"Music enthusiast, aspiring traveler, and adrenaline junkie. Let's go on an adventure, be workout partners, or chill.", array([-0.37515543]), u'cooley2012', 'male')
+---------------------------------------------------------------------------
+(u'ke.', None, array([ 0.80100194]), u'keiara_og', 'female')
+---------------------------------------------------------------------------
+(u'Blackademic', u'TC, Columbia U. Grad Student| Higher & Postsecondary Ed| Diversity & Equity| UW Alumni| My ultimate goal in Life is to live, to love, to be healthy and whole.', array([ 1.95974989]), u'Always_Ballen', 'female')
+---------------------------------------------------------------------------
+(u'Lex', None, array([ 0.692691]), u'Iam_Akcarswell', 'female')
+---------------------------------------------------------------------------
+(u'O. Wang', u'Culture and arts writer, sociology professor, disk junkie. Author of Legions of Boom.', array([-1.20355711]), u'oliverswang', 'male')
+---------------------------------------------------------------------------
+(u'Kryptonite Designs', u'Vinyl wrapping and car customization. Serving the great state of Texas and all surrounding.', array([-1.15350614]), u'KrDesigns', 'male')
+---------------------------------------------------------------------------
+(u'katey.', u'hangin w the best', array([-0.14597496]), u'kateylesch', 'male')
+---------------------------------------------------------------------------
+(u'Jake!', u'Sami Zayn laughed at hearing my Twitter handle.', array([ 0.13776235]), u'InzaynLemon', 'female')
+---------------------------------------------------------------------------
+(u'Amberger', u'Grab her booty infront of guys who want her but more importantly, grab her booty in front of girls who want you', array([ 1.41762496]), u'AmberIvy_', 'female')
+---------------------------------------------------------------------------
+(u'Beautiful \u2764', u"Tired of being strong, please let me be weak for a minute. | McKinley Junior but I'm a Trojan at heart!  |Volleyball & Basketball| DCSJ \u2764", array([ 1.51299689]), u'youlove_Nanaa', 'female')
+---------------------------------------------------------------------------
+(u'Becca', None, array([-0.38397392]), u'bbeccaa___', 'male')
+---------------------------------------------------------------------------
+(u'Rappy On The Beat', u'Rapper | Producer | DJ | Avid Certified Recording | Host of Green Thumb Radio | Owner of #MoveMakersMusic #GNWBT', array([-1.87776028]), u'Bigg_Rapt', 'male')
+---------------------------------------------------------------------------
+(u'#TheWave', u"Don't spend your life Dreaming. Spend your life turning a Dream into Reality\u2800 \u2800\u2800\u2800 \u2800 \u2800 Watch #Applications now: http://vevo.ly/qRflhb | Instagram:PonceDeLeioun", array([ 0.97751286]), u'PonceDeLeioun', 'female')
+---------------------------------------------------------------------------
+(u'jo\u2728', u"follow me cause I'm bool af.", array([-0.24046755]), u'jovetteperez', 'male')
+---------------------------------------------------------------------------
+(u'MNIMN', u"I've been called worse things. Clemson Senior (Psych/Comm). Poet. #VSM #MNIMN *Disclaimer* Theses jokes gone fly with plenty profanity.", array([ 1.30219582]), u'Live_In_Concert', 'female')
+---------------------------------------------------------------------------
+(u'//Youtube//~', u'/Youtuber//Actress//photographer//Diver//dancer/Andrew-Oh your the girl from YOUNOW // Everyone was awake except Danny boy', array([ 1.97182489]), u'maddie_7490', 'female')
+---------------------------------------------------------------------------
+(u'AHS Bass Fishing', u"Arlington High School's Bass Club has competitive anglers fishing the THSBA tournaments, as well as, those who like to fish just for fun!", array([-1.4469013]), u'AHSBass', 'male')
+---------------------------------------------------------------------------
+(u'Ozgur Cayli', None, array([-0.29280253]), u'oscaribiza86', 'male')
+---------------------------------------------------------------------------
+(u'\u2716Samantha\u2716', u'\u26abBruno Mars\u26abManuel Padilla \u26ab\n\u2733TMJT  05/09/2014\u2733', array([ 0.55980358]), u'HooliganBayot', 'female')
+---------------------------------------------------------------------------
+(u'IDKhow2Ack', u"\u2206 \u03c9\u0298\u01a6\u018a \u0298\u0492 \u20ac\u2206\u3129\u03ee\xef\u0298\u2115: \u311a\u0298\u3129'\u01a6\u018e \u01e4\u0298\u2115\u2115\u2206 $\u018e\u018e $\u0298\u03fb\u018e \u01a6\u018e\u2206\u0196\u2115\u018e$$, $\u0298\u03fb\u018e \u01a6\u2206\u2115\u018a\u0298\u03fb\u2115\u018e$$, \u2206\u2115\u018a $\u0298\u03fb\u018e \u2115\u2206\u04a1\u018e\u018a \u03fb\u018e\u2115. \u018a\u0298\u2115\u03ee $\u2206\u311a \xef \u2206\xef\u2115\u03ee \u03c9\u2206\u01a6\u2115 \u311a\u2206", array([-0.80441393]), u'ReignOfARealist', 'male')
+---------------------------------------------------------------------------
+(u'petty wap', u"I'm just a youngin who people are attracted to criticizing because I'm sold that the only man above me is God himself \u270a", array([-4.64931279]), u'DAMNITIMREAL', 'male')
+---------------------------------------------------------------------------
+(u'KU\xaeT SN\u2744W', u'i dont even know fam.\n#MFFL #TheColi', array([-0.02179322]), u'HDKG', 'male')
+---------------------------------------------------------------------------
+(u'Izzy', u"just wingin' it", array([ 1.13203722]), u'izzycoye', 'female')
+---------------------------------------------------------------------------
+(u'URJ Kutz Camp', None, array([ 0.41392696]), u'URJKutzCamp', 'female')
+---------------------------------------------------------------------------
+(u'Matty.B #BeatNewYork', u'not that pussy rapper, livin in the 813, Ben Bishop+Nikita Kucherov=GOAT @tblightning @raysbaseball @nyjets', array([ 0.11673829]), u'bogdanoffmatt', 'female')
+---------------------------------------------------------------------------
+(u'Jas Singh', None, array([ 0.14329788]), u'Jasolonius', 'female')
+---------------------------------------------------------------------------
+(u'Shy The Scammer', u'19. ur fave unfriendly blk hottie. writer. #SJU18.', array([-0.10835503]), u'astoldby_shy', 'male')
+---------------------------------------------------------------------------
+(u'Shamayaaa', u'#Libra', array([ 0.19342551]), u'_humble_02', 'female')
+---------------------------------------------------------------------------
+(u'niko adry', u"I didn't ask to be #Romanian, I was just lucky!  #Volleyball #SUNO #NewOrleans                                           Tak\u04bd\u014b b\u028f t\u0267\u04bd \u0260\u027e\u04bdat\u04bd\u0649t ma\u014b a\u026d\u0269\u0475\u04bd", array([ 1.96806975]), u'nikoadry', 'female')
+---------------------------------------------------------------------------
+(u'Rickster', u"I'm feeling rough, I'm feeling raw, I'm in the prime of my life.", array([ 0.22273972]), u't_abee33', 'female')
+---------------------------------------------------------------------------
+(u'mam\xec chula', u'God, family, school and females. #WTAMU20', array([-0.02133155]), u'xoxoashley78', 'male')
+---------------------------------------------------------------------------
+(u'Bryn Warner, CFRE', u'Nole & College sports fan, work @SunHosFdn, Member AFP, CFRE, NonProfit Profl since 1993 My tweets r my opinion & not those of my employer or fam', array([-2.90047698]), u'NoleFanPinellas', 'male')
+---------------------------------------------------------------------------
+(u'C A U T I \u26ab\ufe0f N', u'NewJersey\u2708\ufe0f Florida! #team\u26fd\ufe0f | Snapchat @yvngthvgger | ig @_yvngthvg', array([-0.77975231]), u'AmerikanRebeL', 'male')
+---------------------------------------------------------------------------
+(u'Kenleyy', u'Jax,FL', array([ 0.34117614]), u'CaudelKenley', 'female')
+---------------------------------------------------------------------------
+(u'Pey10', None, 0, u'r_reaux', 'female')
+---------------------------------------------------------------------------
+(u'Jazzy \u263e', u"San Francisco state '20", array([-1.60363679]), u'jazzayxx', 'male')
+---------------------------------------------------------------------
